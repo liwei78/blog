@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Railser.cn重新开通了。
-permalink: http://railser.cn/blog/railsercn-return-now
 post_id: 12
-categories: ["default", "日记", "随笔"]
+categories: ["日记"]
 ---
 
 {% include JB/setup %}

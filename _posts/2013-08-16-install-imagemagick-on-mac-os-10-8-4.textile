@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 在mac os 10.8.4 上安装 imagemagick
-permalink: http://railser.cn/blog/install-imagemagick-on-mac-os-10-8-4
 post_id: 804
 categories: ["imagemagick", "RailsNote"]
 ---
@@ -14,7 +13,6 @@ categories: ["imagemagick", "RailsNote"]
 
 许久没有用Rails开发项目了，现在回想起来，已经有一年了。好的项目不可期，我们只有耐心的准备着。做程序就像是场耐力赛。
 
-&nbsp;
 
 我没有想到在10.8.4上安装imagemagick如此的麻烦，因为缺少的 Magick-config 总是无法找到，这个问题在 10.6.2 上是不存在的。当然，在ubuntu和centos上也没遇到过。
 
@@ -30,4 +28,3 @@ categories: ["imagemagick", "RailsNote"]
 
 liwei 2013-8-16
 
-&nbsp;

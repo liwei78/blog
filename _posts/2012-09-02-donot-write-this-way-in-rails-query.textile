@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Rails不要这么写查询了
-permalink: http://railser.cn/blog/donot-write-this-way-in-rails-query
 post_id: 765
 categories: ["mysql", "RailsNote"]
 ---

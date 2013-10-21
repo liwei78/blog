@@ -1,9 +1,8 @@
 ---
 layout: post
 title: 在Flex和Rails上实现发布/订阅的消息通信
-permalink: http://railser.cn/blog/publish-subscribe-messaging-with-flex-and-rails
 post_id: 21
-categories: ["ActiveMessaging", "ActiveMQ", "default", "flex", "rails", "STOMP"]
+categories: ["ActiveMessaging", "ActiveMQ", "flex", "rails", "STOMP"]
 ---
 
 {% include JB/setup %}

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: redmine插件开发心得
-permalink: http://railser.cn/blog/redmine-plugin-dev-note
 post_id: 591
 categories: ["Advanced Rails", "iPhone", "plugin", "redmine"]
 ---

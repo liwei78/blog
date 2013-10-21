@@ -14,6 +14,8 @@ categories: ["jquery", "RailsNote", "thickbox"]
 
 这里用thickbox来显示，但是直接点击按钮打开thickbox后，无法弹出新窗口的，所以在提交按钮上加入了
 
+<pre>
 onclick="tb_show('请选择下一步操作', '<%= process_payment_path(:oid=>@oid) %>', '');"
+</pre>
 
 一个解决办法，有更好请大家指点。

@@ -40,8 +40,9 @@ $('soundplayerlayer').innerHTML = AC_FL_RunContent('id', 'pmsoundplayer', 'name'
 
 templates/default/pm_checknew.htm 可以不改动，因为在我的方案里它已经没用了，如果有尝试的朋友，可以对应替换这段代码
 
+<pre>
 <script type="text/javascript" reload="1">$('pmsound').innerHTML = AC_FL_RunContent('id', 'pmsoundplayer', 'name', 'pmsoundplayer', 'width', '0', 'height', '0', 'src', '{$boardurl}images/sound/pm_$pmsound.swf',  'menu', 'false',  'allowScriptAccess', 'sameDomain', 'swLiveConnect', 'true');</script>
-
+</pre>
 两段代码的含义是一样的，都是直接引用swf声音文件。
 
 <span style="color: #ff0000;">templates/default/header.htm 在40行位置，增加</span>
@@ -54,22 +55,3 @@ templates/default/pm_checknew.htm 可以不改动，因为在我的方案里它�
 
 从发现问题到解决问题经历了几天的时间，这里问题解决不了，终究不能卡住不前的。所以选择好的产品，使用正确的方法，实在太关键。康盛将太多的心思用到了一些花哨的功能上，代码质量一直未见提高，产品硬伤内伤依旧，一个画皮一样的产品，只能靠忽悠来支撑了。
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;

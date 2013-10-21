@@ -1,9 +1,8 @@
 ---
 layout: post
 title: RJS教程
-permalink: http://railser.cn/tutorial-rjs
 post_id: 42
-categories: []
+categories: ['rjs']
 ---
 
 {% include JB/setup %}

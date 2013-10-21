@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Rails3：rails destroy scaffold Page
-permalink: http://railser.cn/blog/rails3：rails-destroy-scaffold-page
 post_id: 512
 categories: ["rails3", "RailsNote"]
 ---

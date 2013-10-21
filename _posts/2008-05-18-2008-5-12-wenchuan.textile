@@ -10,10 +10,10 @@ categories: ["default"]
 
 ---
 
-<h1 style="text-align: center;">*<span style="color: #000000;">2008年5月12日下午2点28分</span>*
+<h1 style="text-align: center;"><span style="color: #000000;">2008年5月12日下午2点28分</span>
 
 
-<h1 style="text-align: center;">*<span style="color: #000000;">这将是一个长久铭记在中国历史书上的日子</span>*
+<h1 style="text-align: center;"><span style="color: #000000;">这将是一个长久铭记在中国历史书上的日子</span>
 
 
 一、博客又换服务器了

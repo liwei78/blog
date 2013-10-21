@@ -1,9 +1,8 @@
 ---
 layout: post
 title: 新的Flex框架Mate
-permalink: http://railser.cn/blog/mate-event-driven-framework-for-flex
 post_id: 49
-categories: ["default"]
+categories: ["flex"]
 ---
 
 {% include JB/setup %}

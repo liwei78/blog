@@ -1,9 +1,8 @@
 ---
 layout: post
 title: 惊艳：adobe’s thermo视频演示
-permalink: http://railser.cn/blog/adobe-thermo-cool-video-show
 post_id: 20
-categories: ["adobe", "default", "thermo"]
+categories: ["adobe", "thermo"]
 ---
 
 {% include JB/setup %}

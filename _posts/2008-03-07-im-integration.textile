@@ -1,9 +1,8 @@
 ---
 layout: post
 title: IM的集成开发
-permalink: http://railser.cn/blog/im-integration
 post_id: 38
-categories: ["default", "jabber", "twitter", "xmpp", "xmpp4r"]
+categories: ["jabber", "twitter", "xmpp", "xmpp4r"]
 ---
 
 {% include JB/setup %}

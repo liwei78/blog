@@ -2,7 +2,6 @@
 layout: page
 title: 谁是里克
 description: ""
-permalink: http://railser.cn/me
 post_id: 11
 categories: []
 ---

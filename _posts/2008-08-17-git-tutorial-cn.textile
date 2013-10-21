@@ -1,16 +1,14 @@
 ---
 layout: post
 title: Git：中文教程及资料整理
-permalink: http://railser.cn/blog/git-tutorial-cn
 post_id: 53
-categories: ["default", "git"]
+categories: ["git"]
 ---
 
 {% include JB/setup %}
 
 ---
 
-置顶：<a href="http://railser.cn/index.php/blog/sql-hacks-tips-tools-for-digging-into-your-data" target="_self">SQL Hacks：100个业界最尖端的技巧和工具</a>
 
 写在前面：在忙于生计的一段时间里，Rails升级到2.1，并且带来了一个新的工具：git。忽然之间，git成了专心开发的朋友们的话题。我由于不专心，所以没有去更多的关注它，最多知道它是一个新的版本控制工具。
 

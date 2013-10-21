@@ -19,14 +19,7 @@ categories: ["default", "jquery"]
 <a href="http://railser.cn/wp-content/uploads/2008/11/e6b798e5ae9de59bbee78987e59cb0e59d80e8a7a3e5af86.rar" target="_blank">下载淘宝图片解密js文件</a>
 
 解决办法是，将拿回来的加密字串放到js的方法里，将解密结果更新img的src属性。所以在上面那个文件提供的方法下面，加上了jquery的方法。做了个典型的方法调用。
-<pre class="js" name="code">
-$(document).ready(function() {
-	var whoback = "";
-	whoback = '$results[image]';
-	var iamback = Button1_onclick(whoback);
-	$('#taobao_pic').attr('src', iamback);
-	$('#image_url').attr('value', iamback);
-});</pre>
+
 2、wslide插件
 
 这是一个可以实现新闻列表分页显示的jquery插件，地址：<a href="http://www.webinventif.fr/wslide-plugin/" target="_blank">http://www.webinventif.fr/wslide-plugin/</a>

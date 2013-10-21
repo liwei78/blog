@@ -1,9 +1,8 @@
 ---
 layout: post
 title: MephistoBlog使用的插件和第三方代码介绍
-permalink: http://railser.cn/blog/mephistoblog-vender-and-plugins
 post_id: 24
-categories: ["blog", "default", "mephisto", "plugins"]
+categories: ["blog", "mephisto", "plugins"]
 ---
 
 {% include JB/setup %}

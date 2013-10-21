@@ -1,9 +1,8 @@
 ---
 layout: post
 title: “Twitterverse Awarded Mashup of the Day”
-permalink: http://railser.cn/blog/sites-twitter-rails-and-mashup
 post_id: 33
-categories: ["default", "mashup"]
+categories: ["mashup"]
 ---
 
 {% include JB/setup %}

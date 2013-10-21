@@ -1,9 +1,8 @@
 ---
 layout: post
 title: 关注:Rails上的Opensocial实现
-permalink: http://railser.cn/blog/opensocial-with-ruby-on-rails
 post_id: 23
-categories: ["default", "google", "opensocial", "rails", "REST"]
+categories: ["google", "opensocial", "rails", "REST"]
 ---
 
 {% include JB/setup %}

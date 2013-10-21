@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Rails的中文版新书《Ruby on Rails电子商务实战》
-permalink: http://railser.cn/blog/beginning-ruby-on-rails-e-commerce
 post_id: 41
-categories: ["book", "default", "rails"]
+categories: ["book", "rails"]
 ---
 
 {% include JB/setup %}

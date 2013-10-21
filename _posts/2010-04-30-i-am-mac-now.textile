@@ -16,9 +16,7 @@ categories: ["default"]
 
 下面分享一下这次的经历，当作日记，也是分享给大家一些经验吧。
 
-这是宝贝的地址：<a href="http://item.taobao.com/auction/item_detail-0db2-f2a4a529ab80dd5712e8dce1d69e48df.htm">http://item.taobao.com/auction/item_detail-0db2-f2a4a529ab80dd5712e8dce1d69e48df.htm</a>
 
-非广告，纯属友情连接。
 
 东西拿到了，第一件事是连接上我的显示器。这里介绍两个事情：一是mac mini和自己的显示器连接，用的是dvi线，二是这个线需要自己买，价格在20元左右。线的样子是
 

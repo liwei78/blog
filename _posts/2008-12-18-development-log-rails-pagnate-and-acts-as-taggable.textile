@@ -10,8 +10,7 @@ categories: ["acts_as_taggable", "RailsNote"]
 
 ---
 
-<pre><script type="text/javascript"><!--mce:0--></script>
-<script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript"><!--mce:1--></script></pre>
+
 最近一个月在忙于开发项目，所以没有更新博客。不过开发中还是学到不少东西。
 
 对于一个程序员，阅读是相当有帮助的，读别人的博客，读源码，读经验文章 ，即便读别人的开发代码，都是有帮助的。

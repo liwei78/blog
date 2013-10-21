@@ -1,7 +1,6 @@
 ---
 layout: post
 title: nil 不等于0
-permalink: http://railser.cn/blog/nil-not-equal-zero
 post_id: 825
 categories: ["RailsNote"]
 ---
@@ -19,5 +18,3 @@ false
 那么，migrate的时候，integer的column就要给一个 default: 0的限制，这样，你查询时候的幸福指数会提升很多。
 
 否则，user.read_count
-
-&nbsp;

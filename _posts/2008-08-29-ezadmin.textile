@@ -1,9 +1,8 @@
 ---
 layout: post
 title: EZAdmin，一个简易的asp企业站管理后台
-permalink: http://railser.cn/blog/ezadmin
 post_id: 54
-categories: ["default", "EZAdmin"]
+categories: ["EZAdmin"]
 ---
 
 {% include JB/setup %}

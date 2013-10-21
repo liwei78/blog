@@ -59,7 +59,7 @@ class Post
     buf << "---\n"
     buf << "layout: post\n"
     buf << "title: #{title}\n" #escape character in title
-    buf << "permalink: #{permalink}\n"
+    # buf << "permalink: #{permalink}\n"
     buf << "post_id: #{post_id}\n"
     buf << "categories: #{categories}\n"
     buf << "---\n\n"

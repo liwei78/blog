@@ -14,10 +14,13 @@ categories: ["RailsNote"]
 
 比如
 
+<pre>
 user = User.find_by_id(0)
 
 user.name
-
+</pre>
 必然会引起异常了，所以用try方法加以避免
 
+<pre>
 user.try(:name)
+</pre>

@@ -1,9 +1,8 @@
 ---
 layout: post
 title: RESTful的Rails开发，讲讲4Rails.cn的开发心得
-permalink: http://railser.cn/blog/rails-on-rest-and-4rails-cn
 post_id: 28
-categories: ["default", "rails", "REST", "ROA"]
+categories: ["rails", "REST", "ROA"]
 ---
 
 {% include JB/setup %}

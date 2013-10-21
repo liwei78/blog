@@ -1,9 +1,8 @@
 ---
 layout: post
 title: 写在2007的最后一天
-permalink: http://railser.cn/blog/riquel-li-at-2007-end
 post_id: 26
-categories: ["default"]
+categories: ["日记"]
 ---
 
 {% include JB/setup %}

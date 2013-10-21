@@ -1,9 +1,8 @@
 ---
 layout: post
 title: 在Rails中使用Flash Remoting中文教程
-permalink: http://railser.cn/blog/flash-remoting-for-rails-tutorial-chinese
 post_id: 17
-categories: ["default", "flash", "rails", "remoting"]
+categories: ["flash", "rails", "remoting"]
 ---
 
 {% include JB/setup %}

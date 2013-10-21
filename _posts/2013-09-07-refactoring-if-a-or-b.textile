@@ -1,7 +1,6 @@
 ---
 layout: post
 title: if a|| b 的重构
-permalink: http://railser.cn/blog/refactoring-if-a-or-b
 post_id: 828
 categories: ["default", "重构"]
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TextMate中文教程之插入新内容
-permalink: http://railser.cn/blog/inserting-new-content
 post_id: 176
 categories: ["default", "TextMate"]
 ---

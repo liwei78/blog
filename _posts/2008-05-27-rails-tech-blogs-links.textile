@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 近期计划及以往技术网站连接整理
-permalink: http://railser.cn/blog/rails-tech-blogs-links
 post_id: 48
 categories: ["default"]
 ---

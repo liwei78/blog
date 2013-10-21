@@ -1,9 +1,8 @@
 ---
 layout: post
 title: 《Flex3基础训练》视频系列
-permalink: http://railser.cn/blog/flex3-essential-training
 post_id: 40
-categories: ["default", "flex"]
+categories: ["flex"]
 ---
 
 {% include JB/setup %}

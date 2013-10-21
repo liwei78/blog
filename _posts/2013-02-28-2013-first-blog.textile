@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 2013
-permalink: http://railser.cn/blog/2013
+title: 2013第一帖
 post_id: 794
 categories: ["others"]
 ---

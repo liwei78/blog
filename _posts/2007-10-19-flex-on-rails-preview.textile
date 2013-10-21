@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Flex与Rails的性感结合
-permalink: http://railser.cn/blog/flex-on-rails-preview
 post_id: 13
-categories: ["amf", "default", "flash", "flex", "rails", "weborb"]
+categories: ["amf", "flash", "flex", "rails", "weborb"]
 ---
 
 {% include JB/setup %}

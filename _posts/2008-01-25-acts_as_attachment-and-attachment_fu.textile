@@ -1,9 +1,8 @@
 ---
 layout: post
 title: acts_as_attachment和attachment_fu插件应用
-permalink: http://railser.cn/blog/acts_as_attachment-and-attachment_fu
 post_id: 29
-categories: ["default", "plugins", "rails", "rmagic"]
+categories: ["plugins", "rails", "rmagic"]
 ---
 
 {% include JB/setup %}

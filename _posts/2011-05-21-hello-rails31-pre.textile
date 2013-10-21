@@ -28,7 +28,6 @@ rails31test liwei$ bundle
 
 rails31test liwei$ rails g scaffold project name:string
 
-gem gem
 
 /Users/apple/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0.beta1/lib/sprockets/railtie.rb:37:in `block (2 levels) in <class:Railtie>': undefined method `context' for #<Sprockets::Environment:0x0000010312c420> (NoMethodError)
 
@@ -48,4 +47,4 @@ rails31test liwei$ rails g scaffold project name:string
 
 成功
 
-未完待续吧gem gem
+未完待续吧
