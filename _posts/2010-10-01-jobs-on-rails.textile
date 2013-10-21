@@ -1,0 +1,35 @@
+---
+layout: post
+title: 阅川工作室 Riverwatcher Studio 计划在 (北京) 地区招聘 ROR工程师两名
+permalink: http://railser.cn/blog/jobs-on-rails
+post_id: 487
+categories: ["jobs", "others"]
+---
+
+{% include JB/setup %}
+
+---
+
+<div id="_mcePaste">
+<div id="_mcePaste">程序师技术要求：</div>
+<div id="_mcePaste">招聘具有Ruby on Rails 背景的工程师。</div>
+<div id="_mcePaste">工程师要求 半年到两年左右的RoR项目经验</div>
+<div id="_mcePaste"></div>
+<div id="_mcePaste">如果您有以下的背景将会被优先考虑:</div>
+<div id="_mcePaste">PHP经验。</div>
+<div id="_mcePaste">iphone开发经验。</div>
+<div id="_mcePaste">计算机专业本科。</div>
+<div id="_mcePaste">XHTML, JavaScript and AJAX technology。</div>
+<div id="_mcePaste">UNIX such as Linux。</div>
+<div id="_mcePaste">MVC 和其他设计模式。</div>
+<div id="_mcePaste"></div>
+<div>
+<div id="_mcePaste">可以将您的背景资料和简历发送到</div>
+<div id="_mcePaste">charles@riverwatcher.com</div>
+<div></div>
+</div>
+<div id="_mcePaste">另外，我们将会比较看重工程师的智慧，诚实，解决问题的能力，对可能出现问题的估计和提前准备，对于运用新技术的渴望，和良好的工作道德。</div>
+<div id="_mcePaste"></div>
+<div id="_mcePaste">了解更多信息也可以发送邮件到： charles@riverwatcher.com</div>
+<div id="_mcePaste">公司网站：www.riverwatcher.com</div>
+</div>

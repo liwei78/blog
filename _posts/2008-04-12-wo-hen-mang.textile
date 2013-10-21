@@ -1,0 +1,49 @@
+---
+layout: post
+title: 我很忙
+permalink: http://railser.cn/blog/wo-hen-mang
+post_id: 46
+categories: ["default"]
+---
+
+{% include JB/setup %}
+
+---
+
+一、
+<p style="text-align: center"><img src="http://railser.cn/wp-content/uploads/2008/04/136975453101180.jpg" alt="136975453101180.jpg" />
+
+
+这是第一件想说的事情。最近很忙但是还在关注这新闻，毕竟是体育迷，所以新闻是必看的。不想在博客里谈论政治，何况体育跟政治压根就是两码事。
+
+从事体育的人都为能在自己的领域为国效力而自豪，可惜程序员这一行既不是体育项目，也不是体力项目，所以，我这辈子是没机会穿上国家队的队服了。羡慕金晶。
+
+作为残疾人，感谢金晶在公众面前表现出来的沉着，冷静和勇敢。
+
+ps1：“身残志坚” 是社会强加给残疾人的，不是我们的定义。残疾人非要意志脆弱，需要人提醒吗？
+
+ps2：在金字塔面前，人人平等。这个社会为什么要区分所谓的残疾人和正常人？
+
+link：<a href="http://blog.sina.com.cn/huojushoujinjing" target="_blank">http://blog.sina.com.cn/huojushoujinjing</a>
+
+link：<a href="http://blog.sina.com.cn/s/blog_48d4aac101009aq1.html" target="_blank">轮椅上的“剑客”谴责冲击圣火：这些行为让人愤慨 </a>
+
+二、
+
+Rails改用Git了，不过可惜，windows上想用的好，需要安装cygwin ，要命啊，那个东西全装的话得一整个硬盘（20G），唉，好东西，享用不起了。
+
+link：<a href="http://weblog.rubyonrails.org/2008/4/2/rails-is-moving-from-svn-to-git" target="_blank">Rails is moving from SVN to Git </a>
+
+三、
+
+最近在用verycms和 supesite建设网站，感觉不错。不过VC档次有点低，不能太高要求，实在遗憾啊，失望大于期望。SS不错，功能很强，很专业，适合做中型的系统。
+
+在使用的同时积累了点cms的经验，希望有一天能够参与下Rails的cms开发。有兴趣的朋友欢迎交流。
+
+近期作品：<a href="http://www.zgcjr.org" target="_blank">生命之光教育网</a>，<a href="http://www.xinyu.org" target="_blank">心语志愿者协会</a>
+
+四、
+
+手纸涨价了，程序员也应该有个合理价位吧？
+
+我接受2000元/月以上的工作邀请，兼职全职均可 ，但全职目前仅限长春。

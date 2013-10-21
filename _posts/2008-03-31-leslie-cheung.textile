@@ -1,0 +1,60 @@
+---
+layout: post
+title: 四月一日：只为一个人纪念
+permalink: http://railser.cn/blog/leslie-cheung
+post_id: 44
+categories: ["default", "Leslie"]
+---
+
+{% include JB/setup %}
+
+---
+
+<p style="text-align: center"><img src="http://railser.cn/wp-content/uploads/2008/03/0.jpg" alt="Leslie Cheung" />
+
+
+<p style="text-align: center"><img src="http://railser.cn/wp-content/uploads/2008/03/1.jpg" alt="Leslie Cheung" />
+
+
+<p style="text-align: center"><img src="http://railser.cn/wp-content/uploads/2008/03/2.jpg" alt="Leslie Cheung" />
+
+
+
+这是一个歌者，演员，巨星所能享有的爱戴与缅怀。逝者已去，留给生者的是对生命的思索。
+
+人为何而来，又为何而去。
+
+在王家卫的《蓝莓之夜》 里，Natalie Portman（娜塔莉 波特曼）的角色叫Leslie，一个古灵精怪，偏执，但是内心善良的女人。不知道王家卫为何要将这个角色的名字定做Leslie，他在描述他心目中的Leslie吗？
+
+听歌吧：风继续吹
+
+
+bq. 
+我劝你早点归去你说你不想归去
+只叫我抱着你
+悠悠海风轻轻吹冷却了野火堆
+我看见伤心的你你叫我怎舍得去
+哭态也绝美
+如何止哭只得轻吻你发边让风继续吹
+不忍远离
+心里极渴望希望留下伴着你
+风继续吹不忍远离
+心里极渴望希望留下伴着你
+心里亦有泪不愿流泪望着你
+
+过去多少快乐记忆何妨与你一起去追
+要将忧郁苦痛洗去柔情蜜意我愿记取
+要强忍离情泪未许它向下垂
+愁如锁眉头聚别离泪始终要下垂
+
+我已令你快乐你也令我痴痴醉
+你已在我心不必再问记着谁
+留住眼里每滴泪为何仍断续流默默垂
+为何仍断续流默默垂性
+
+
+<pre align="center">
+<embed src="http://www.yobo.com/flash/w/105/singlemusic.swf" FlashVars="P=GW|www.yobo.com|xmlUrl|7856|w|255|skin|07|autoPlay|1|volume|100" quality="high" bgcolor="#ffffff" width="255" height="108" id="single_song_player_7856" name="single_song_player_7856" align="middle" type="application/x-shockwave-flash"> </embed>
+
+<a href="http://www.yobo.com" target="_blank"><img src="http://www.yobo.com/images/blank_image.gif" style="display:none;" title="YOBO友播,音乐DNA,音乐推荐,排行榜,音乐插件,MUSIC WIDGET" /></a>
+</pre>

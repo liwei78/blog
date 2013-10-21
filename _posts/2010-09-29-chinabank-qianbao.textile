@@ -1,0 +1,13 @@
+---
+layout: post
+title: 网银钱包不能用了，郁闷
+permalink: http://railser.cn/blog/chinabank-qianbao
+post_id: 481
+categories: ["default"]
+---
+
+{% include JB/setup %}
+
+---
+
+刚才打电话给网银，确认一下，没想到网银钱包别的银行也不能加钱。测试起来好麻烦阿。

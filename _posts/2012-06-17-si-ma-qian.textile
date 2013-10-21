@@ -1,0 +1,25 @@
+---
+layout: post
+title: 历史分享：《风追司马》（上、下）
+permalink: http://railser.cn/blog/si-ma-qian
+post_id: 746
+categories: ["others", "历史", "司马迁"]
+---
+
+{% include JB/setup %}
+
+---
+
+写在前面：
+
+写完cms系列文章之后，做了几件事，1，整理书柜，把无用的清理掉，把书重新排列一下，2，看了一遍康震主讲的《李白》，下周计划看《李清照》，3，关注了一下Node.js的应用。
+
+Node.js非常适合为Rails提供一个可靠地，可高并发的上传解决方案。
+
+这里不多讲，等研究完并且有了好的实现，会在这里发布。感谢各位关注Rails，作为回赠，将《风追司马》的上下两集发布一下，以作调剂。
+
+<object width="400" height="300" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://v.ifeng.com/include/exterior.swf?AutoPlay=false&guid=9443930a-8ee0-4edc-a89a-e1009dae9e79" /><embed width="400" height="300" type="application/x-shockwave-flash" src="http://v.ifeng.com/include/exterior.swf?AutoPlay=false&guid=9443930a-8ee0-4edc-a89a-e1009dae9e79" /></object>
+
+&nbsp;
+
+<object width="400" height="300" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://v.ifeng.com/include/exterior.swf?AutoPlay=false&guid=f4da6ee4-74a4-4263-a56d-6a048513ffbc" /><embed width="400" height="300" type="application/x-shockwave-flash" src="http://v.ifeng.com/include/exterior.swf?AutoPlay=false&guid=f4da6ee4-74a4-4263-a56d-6a048513ffbc" /></object>

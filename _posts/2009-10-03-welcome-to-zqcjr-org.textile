@@ -1,0 +1,48 @@
+---
+layout: post
+title: 生命之光网络工作室网站上线了！
+permalink: http://railser.cn/blog/welcome-to-zqcjr-org
+post_id: 422
+categories: ["default"]
+---
+
+{% include JB/setup %}
+
+---
+
+最近的半个多月，一直在忙碌着工作室成立的事情。这也是开发任务间歇期，最重要完成的一项工作。
+
+这个工作室，是和心语协会的于海波会长，共同主张成立的。几年前我们就在想办一个公司，提供网络服务，说白了就是给别人做网站。因为发现很多残疾人都有这个能力或者热情。大家都期望在互联网上寻求自己的价值。
+
+可是，现实和理想是有很大差距的。
+
+近期协会的电子商务培训班结束了第5期的课程，（明年还有5期的课程）。并且留下了几个打算从事网络工作的学员，于是，我们的想法再次可实现了。这次，是贴合实际情况的运作了。留下的几个人都有一定的基础，于是开始分别重点培训，前台工美1人，后台程序2人，业务2人。后来又遇到两个志同道合的朋友，加入进来，处理教育网的事务。这样7人的小团队搭建起来了。
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-423" title="viewfile" src="http://railser.cn/wp-content/uploads/viewfile.gif" alt="viewfile" width="190" height="40" />
+
+
+<p style="text-align: center;"><a href="http://www.zqcjr.org" target="_blank">www.zqcjr.org</a>
+
+
+
+工作室业务内容：1、企业站开发，维护，2、威客任务，3、教育网视频教学平台，4、助残商城，5、生命之光系列网站运营
+
+其中企业站和威客任务，是主要的盈利手段。经过两周多的培训，成员已经基本掌握了企业站的处理技巧，目前还是欠缺经验。
+
+这就是本人两个多星期一直在忙碌的事情，目前看到事情在正常的进展，很高兴，看到我们的工作室网站上线了，在第一时间看到成品的时候，自己也小激动下。
+
+前天和海波姐讨论工作室收支，发现这个小团队运营一年下来，压力也是不小的。但是我们有信心！
+
+想说的话很多，发现今天是中秋，十一和中秋，跟我学习的学员都没有回家，还是在忙碌一个企业站（算是第一个企业站）。很感动大家的努力，相信我们会通过自己的努力，赚的一个未来的。
+
+写在后面：
+
+目前有三个学员，我要求他们学习外语，两个跟我学编程的在学习英语，前台美工的女孩在学习韩语。因为都是零基础，所以完全是从头开始，定位也摆脱了英语的束缚。如果有自愿帮助他们学习的朋友，欢迎和我联系：<a href="mailto:liwei@lol.org.cn">liwei@lol.org.cn</a>。学习方式：在线语音，时间可以安排，内容为辅导语言学习，帮助他们快速的掌握基本知识，能达到熟悉英语书写，识别语法。
+
+<img class="aligncenter size-full wp-image-426" title="DSC_0015" src="http://railser.cn/wp-content/uploads/DSC_0015.jpg" alt="DSC_0015" width="400" height="266" />
+<p style="text-align: center;">给成员讲东西，有点摆拍的意思，因为多数是单个讲的，很少对所有人讲。
+
+
+
+<img class="aligncenter size-full wp-image-428" title="DSC_0063" src="http://railser.cn/wp-content/uploads/DSC_0063.jpg" alt="DSC_0063" width="400" height="266" />
+<p style="text-align: center;">中间讲话的就是心语协会于海波会长（还是叫海波姐吧，呵呵），她的资料可以查<a href="http://www.baidu.com/s?tn=monline_dg&rn=50&bs=%B3%A4%B4%BA+%D3%DA%BA%A3%B2%A8&f=8&wd=%D0%C4%D3%EF%D0%AD%BB%E1+%D3%DA%BA%A3%B2%A8" target="_blank">百度：心语协会 于海波</a>。在她身上能感受到，公益事业不是简单说说就可以的，我只能帮助几个人，她能帮助一大群需要帮助的人。在我们这，做的永远要比说的多很多。
+
