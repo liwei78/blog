@@ -510,11 +510,13 @@ Jekyll流行因为github pages，创建的时候推荐了它。今天下午发�
         <td><a href="http://github.com/seattlerb/zenweb">seattlerb/zenweb</a></td>
     </tr>
 <tr></tr>
-</tbody></table>
+</tbody>
+</table>
 
-昨天用了 http://jekyllbootstrap.com/ 来美化我当前的代码，今天发现作者已经不再维护它，并且新搞了一个类似Jekyll的工具，http://ruhoh.com/。
 
-我的博客代码在 https://github.com/liwei78/blog
+昨天用了 http://jekyllbootstrap.com/ 来美化我当前的代码，今天发现作者已经不再维护它，并且新搞了一个类似Jekyll的工具，[http://ruhoh.com/](http://ruhoh.com/)。
+
+我的博客代码在 [https://github.com/liwei78/blog](https://github.com/liwei78/blog)
 
 如果你还在看，我表示一下感谢。希望我在接下来的几天里，多写一些东西，因为，我辞职了。
 
