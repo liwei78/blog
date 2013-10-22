@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 在mac上配制Rails开发环境
-permalink: http://railser.cn/blog/rails-on-mac
 post_id: 457
 categories: ["apple mac", "mac", "rails"]
 ---

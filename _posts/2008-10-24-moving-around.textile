@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TextMate中文教程之移动光标
-permalink: http://railser.cn/blog/moving-around
 post_id: 151
 categories: ["default", "TextMate"]
 ---

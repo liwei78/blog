@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TextMate中文教程之用快捷键创建项目
-permalink: http://railser.cn/blog/shortcuts-for-creating-projects
 post_id: 100
 categories: ["default"]
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: cms系列二：塞下秋来风景异
-permalink: http://railser.cn/blog/cms-part-ii
 post_id: 692
 categories: ["cms", "default"]
 ---

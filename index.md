@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 欢迎来到用Jekyll重建后的里克的自习室。
+title: 一个Ruby和Rails学习与开发的博客。
 tagline: Supporting tagline
 ---
 {% include JB/setup %}

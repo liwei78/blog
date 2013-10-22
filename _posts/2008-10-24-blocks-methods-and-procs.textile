@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 1.2.5 代码块，方法和过程
-permalink: http://railser.cn/blog/blocks-methods-and-procs
 post_id: 164
 categories: ["Advanced Rails", "default"]
 ---

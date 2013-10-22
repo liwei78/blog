@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 1.2.2 方法查找(2)
-permalink: http://railser.cn/blog/method-lookup-2
 post_id: 130
 categories: ["default"]
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 1.2.1 类和模块
-permalink: http://railser.cn/blog/class-and-module
 post_id: 108
 categories: ["default"]
 ---

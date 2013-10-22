@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TextMate中文教程之使用制表符
-permalink: http://railser.cn/blog/working-with-tabs
 post_id: 219
 categories: ["default", "TextMate"]
 ---

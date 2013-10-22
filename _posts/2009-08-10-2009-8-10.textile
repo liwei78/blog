@@ -1,7 +1,6 @@
 ---
 layout: post
 title: sns网站设计感想
-permalink: http://railser.cn/blog/2009-8-10
 post_id: 414
 categories: ["others", "sbs"]
 ---

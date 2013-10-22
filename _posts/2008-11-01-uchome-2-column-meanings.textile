@@ -1,7 +1,6 @@
 ---
 layout: post
 title: uchome中的两个字段含义的解释
-permalink: http://railser.cn/blog/uchome-2-column-meanings
 post_id: 231
 categories: ["default", "php", "uch"]
 ---

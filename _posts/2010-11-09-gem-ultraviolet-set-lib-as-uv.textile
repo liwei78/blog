@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 有了ultraviolet，可是没有uv，怎么办？
-permalink: http://railser.cn/blog/gem-ultraviolet-set-lib-as-uv
 post_id: 527
 categories: ["Advanced Rails"]
 ---

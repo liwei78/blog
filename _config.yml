@@ -11,6 +11,7 @@ pygments: true
 #
 title : 里克的自习室
 tagline: Site Tagline
+blog_url: http://railser.cn
 author :
   name : 里克
   email : hi@liwei.me

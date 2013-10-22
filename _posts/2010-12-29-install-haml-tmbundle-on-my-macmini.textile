@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 如何安装TextMate的haml.tmbundle
-permalink: http://railser.cn/blog/install-haml-tmbundle-on-my-macmini
 post_id: 567
 categories: ["TextMate"]
 ---

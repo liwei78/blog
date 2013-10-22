@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 在CentOS5上部署Rails3应用
-permalink: http://railser.cn/blog/rails-on-centos-step-by-step
 post_id: 609
 categories: ["Advanced Rails", "capistrano", "centos", "linux", "nginx", "passenger", "rails", "RailsNote", "rvm", "ssh", "svn", "whenever"]
 ---

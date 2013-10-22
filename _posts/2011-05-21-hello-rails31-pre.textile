@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Hello, Rails3.1 pre
-permalink: http://railser.cn/blog/hello-rails31-pre
 post_id: 601
 categories: ["default", "rails31", "RailsNote"]
 ---

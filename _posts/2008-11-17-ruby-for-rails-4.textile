@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ruby for rails 摘录
-permalink: http://railser.cn/blog/ruby-for-rails-4
 post_id: 290
 categories: ["r4r", "rails", "RailsNote"]
 ---

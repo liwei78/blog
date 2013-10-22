@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 1.1.1 别重复自己
-permalink: http://railser.cn/blog/don-not-repeat-yourself
 post_id: 86
 categories: ["default"]
 ---

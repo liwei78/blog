@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 重读AWDWR笔记
-permalink: http://railser.cn/blog/awdwr-1
 post_id: 304
 categories: ["AWDWR", "RailsNote"]
 ---

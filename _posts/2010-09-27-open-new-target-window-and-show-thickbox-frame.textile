@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 打开新表单，并弹出thickbox提示框
-permalink: http://railser.cn/blog/open-new-target-window-and-show-thickbox-frame
 post_id: 478
 categories: ["jquery", "RailsNote", "thickbox"]
 ---

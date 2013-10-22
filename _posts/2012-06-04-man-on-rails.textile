@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 走铁轨的人
-permalink: http://railser.cn/blog/man-on-rails
 post_id: 663
 categories: ["others"]
 ---

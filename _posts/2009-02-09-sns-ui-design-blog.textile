@@ -1,7 +1,6 @@
 ---
 layout: post
 title: sns ui 设计要看的两篇文章
-permalink: http://railser.cn/blog/sns-ui-design-blog
 post_id: 362
 categories: ["RailsNote", "ui"]
 ---

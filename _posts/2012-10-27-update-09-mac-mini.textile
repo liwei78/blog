@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 升级09款mac mini笔记
-permalink: http://railser.cn/blog/update-09-mac-mini
 post_id: 776
 categories: ["apple mac", "mini"]
 ---

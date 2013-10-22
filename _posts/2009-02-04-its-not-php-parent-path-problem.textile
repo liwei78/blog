@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 貌似php父路径问题引发的问题
-permalink: http://railser.cn/blog/its-not-php-parent-path-problem
 post_id: 354
 categories: ["apache", "php", "RailsNote"]
 ---

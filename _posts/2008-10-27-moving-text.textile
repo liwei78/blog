@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TextMate中文教程之移动文本
-permalink: http://railser.cn/blog/moving-text
 post_id: 181
 categories: ["default", "TextMate"]
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: heroku部署问题，是gem升级导致的这个问题
-permalink: http://railser.cn/blog/heroku-deploy-error-with-mail-2-2-13
 post_id: 572
 categories: ["default"]
 ---

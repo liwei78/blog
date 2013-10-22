@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 代码块转换为过程和过程转换为代码块
-permalink: http://railser.cn/blog/blocks-to-procs-and-procs-to-blocks
 post_id: 186
 categories: ["Advanced Rails", "default", "rails"]
 ---

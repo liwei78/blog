@@ -1,7 +1,6 @@
 ---
 layout: post
 title: paperclip上传后的原图大小
-permalink: http://railser.cn/blog/paperclip-original-file-size
 post_id: 575
 categories: ["Advanced Rails"]
 ---

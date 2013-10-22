@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 糟糕之极的豆瓣电台ui设计
-permalink: http://railser.cn/blog/bad-of-douban-fm-ui-design
 post_id: 561
 categories: ["default"]
 ---

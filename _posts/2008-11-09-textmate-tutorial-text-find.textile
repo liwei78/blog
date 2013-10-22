@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TextMate中文教程之搜索
-permalink: http://railser.cn/blog/textmate中文教程之搜索
 post_id: 252
 categories: ["default", "TextMate"]
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: hash.invert的用法
-permalink: http://railser.cn/blog/hash-invert
 post_id: 464
 categories: ["RailsNote"]
 ---

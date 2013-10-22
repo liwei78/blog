@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 1.2.4 变量查找
-permalink: http://railser.cn/blog/variable-lookup
 post_id: 162
 categories: ["Advanced Rails", "default"]
 ---

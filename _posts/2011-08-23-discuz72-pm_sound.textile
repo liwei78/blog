@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 令人反感的discuz7.2论坛无提示音解决办法
-permalink: http://railser.cn/blog/discuz72-pm_sound
 post_id: 648
 categories: ["discuz", "others", "php"]
 ---

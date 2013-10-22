@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 近来jquery的两次应用
-permalink: http://railser.cn/blog/jquery-in-works
 post_id: 245
 categories: ["default", "jquery"]
 ---

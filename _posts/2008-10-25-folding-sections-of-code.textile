@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TextMate中文教程之折叠代码片段
-permalink: http://railser.cn/blog/folding-sections-of-code
 post_id: 166
 categories: ["default", "TextMate"]
 ---

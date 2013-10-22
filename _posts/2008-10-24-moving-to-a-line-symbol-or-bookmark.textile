@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TextMate中文教程之在行，符号和书签之间移动
-permalink: http://railser.cn/blog/moving-to-a-line-symbol-or-bookmark
 post_id: 155
 categories: ["default", "TextMate"]
 ---

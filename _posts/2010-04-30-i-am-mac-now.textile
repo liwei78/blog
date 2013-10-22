@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 我开始mac啦！！
-permalink: http://railser.cn/blog/i-am-mac-now
 post_id: 440
 categories: ["default"]
 ---

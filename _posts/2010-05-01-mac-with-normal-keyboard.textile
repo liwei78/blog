@@ -1,7 +1,6 @@
 ---
 layout: post
 title: mac使用普通键盘的几个快捷键
-permalink: http://railser.cn/blog/mac-with-normal-keyboard
 post_id: 451
 categories: ["apple mac"]
 ---

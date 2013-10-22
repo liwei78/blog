@@ -1,7 +1,6 @@
 ---
 layout: post
 title: jquery和prototype的代码对比
-permalink: http://railser.cn/blog/prototype-and-jquery-a-code-comparison
 post_id: 385
 categories: ["jquery", "RailsNote"]
 ---

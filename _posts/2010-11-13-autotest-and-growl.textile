@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Autotest and Growl
-permalink: http://railser.cn/blog/autotest-and-growl
 post_id: 533
 categories: ["RailsNote"]
 ---

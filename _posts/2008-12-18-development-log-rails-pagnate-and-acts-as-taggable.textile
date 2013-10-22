@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 开发笔记：rails分页和acts_as_taggable插件的应用[重发]
-permalink: http://railser.cn/blog/development-log-rails-pagnate-and-acts-as-taggable
 post_id: 341
 categories: ["acts_as_taggable", "RailsNote"]
 ---

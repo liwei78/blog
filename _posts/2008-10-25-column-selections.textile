@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TextMate中文教程之列选择器
-permalink: http://railser.cn/blog/column-selections
 post_id: 172
 categories: ["default", "TextMate"]
 ---

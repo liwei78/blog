@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TextMate中文教程之编辑模式
-permalink: http://railser.cn/blog/editing-modes
 post_id: 213
 categories: ["default", "TextMate"]
 ---

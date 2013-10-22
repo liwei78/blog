@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TextMate中文教程之在项目中搜索
-permalink: http://railser.cn/blog/find-in-project
 post_id: 269
 categories: ["TextMate"]
 ---

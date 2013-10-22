@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 我一直在用的香港云主机，推荐给大家
-permalink: http://railser.cn/blog/hk-vps
 post_id: 789
 categories: ["others"]
 ---

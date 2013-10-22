@@ -1,7 +1,6 @@
 ---
 layout: post
 title: errors.add_to_base和errors.add
-permalink: http://railser.cn/blog/add_to_base-and-add-in-rails-model-errors
 post_id: 583
 categories: ["RailsNote"]
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 带着restful_authentication运行rspec时，貌似cookies无效的问题
-permalink: http://railser.cn/blog/restful_authentication-rspec-fails
 post_id: 317
 categories: ["RailsNote", "rspec"]
 ---

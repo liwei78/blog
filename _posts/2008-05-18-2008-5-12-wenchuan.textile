@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 2008年5月12日下午2点28分，汶川地震
-permalink: http://railser.cn/blog/2008-5-12-wenchuan
 post_id: 47
 categories: ["default"]
 ---

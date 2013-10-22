@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 闭包
-permalink: http://railser.cn/blog/闭包
 post_id: 193
 categories: ["Advanced Rails", "default"]
 ---

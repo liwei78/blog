@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 一个带BOM的utf-8文件引来的麻烦
-permalink: http://railser.cn/blog/bom-in-utf8-file
 post_id: 653
 categories: ["others", "php"]
 ---

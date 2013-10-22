@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TextMate中文教程之文本选择器
-permalink: http://railser.cn/blog/making-selections
 post_id: 169
 categories: ["default", "TextMate"]
 ---

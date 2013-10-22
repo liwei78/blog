@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 1.1 什么是元编程？
-permalink: http://railser.cn/blog/what-is-metaprogramming
 post_id: 56
 categories: ["default"]
 ---

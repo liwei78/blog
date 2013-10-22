@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Rails中基于属性的动态查询
-permalink: http://railser.cn/blog/dynamic-attribute-based-finders
 post_id: 339
 categories: ["rails", "RailsNote"]
 ---

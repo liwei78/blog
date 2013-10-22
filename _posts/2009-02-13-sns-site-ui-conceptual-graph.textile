@@ -1,7 +1,6 @@
 ---
 layout: post
 title: sns网站ui框架概念图
-permalink: http://railser.cn/blog/sns-site-ui-conceptual-graph
 post_id: 370
 categories: ["RailsNote", "ui"]
 ---

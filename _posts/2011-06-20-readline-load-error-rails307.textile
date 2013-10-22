@@ -1,7 +1,6 @@
 ---
 layout: post
 title: readline load error的解决办法
-permalink: http://railser.cn/blog/readline-load-error-rails307
 post_id: 636
 categories: ["RailsNote", "readline"]
 ---

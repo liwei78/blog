@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 在windows和netbeans6.5上，准备Rspce开发
-permalink: http://railser.cn/blog/rspec-on-windows-and-netbeans65
 post_id: 308
 categories: ["RailsNote", "rspec"]
 ---

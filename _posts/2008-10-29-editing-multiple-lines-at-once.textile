@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TextMate中文教程之一次编辑多行
-permalink: http://railser.cn/blog/editing-multiple-lines-at-once
 post_id: 207
 categories: ["default", "TextMate"]
 ---

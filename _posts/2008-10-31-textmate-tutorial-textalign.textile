@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TextMate中文教程之文本对齐
-permalink: http://railser.cn/blog/textmate中文教程之文本对齐
 post_id: 217
 categories: ["default", "TextMate"]
 ---

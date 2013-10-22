@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 2011，让APP飞一会吧
-permalink: http://railser.cn/blog/myappblog-and-2011-new-wish
 post_id: 577
 categories: ["app", "default", "haml", "ipad", "iphone", "sass"]
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 新书推荐：《正在爆发的互联网革命》
-permalink: http://railser.cn/blog/sns-is-changing-internet
 post_id: 419
 categories: ["book", "default"]
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Rails Rdoc笔记：respond_to
-permalink: http://railser.cn/blog/rails-rdoc-respond_to
 post_id: 345
 categories: ["RailsNote", "rdoc"]
 ---

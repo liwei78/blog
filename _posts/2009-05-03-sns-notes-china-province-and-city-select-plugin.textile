@@ -1,7 +1,6 @@
 ---
 layout: post
 title: sns网站开发经验总结：中国省份城市插件（一）
-permalink: http://railser.cn/blog/sns-notes-china-province-and-city-select-plugin
 post_id: 395
 categories: ["plugin", "RailsNote", "sns"]
 ---

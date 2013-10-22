@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TextMate中文教程之剪切，复制和粘贴
-permalink: http://railser.cn/blog/cut-copy-and-paste
 post_id: 201
 categories: ["default", "TextMate"]
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 1.2.3 Metaid
-permalink: http://railser.cn/blog/123-metaid
 post_id: 160
 categories: ["Advanced Rails", "default"]
 ---

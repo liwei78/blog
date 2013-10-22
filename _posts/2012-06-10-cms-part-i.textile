@@ -1,7 +1,6 @@
 ---
 layout: post
 title: cms系列一：东风夜放花千树
-permalink: http://railser.cn/blog/cms-part-i
 post_id: 678
 categories: ["cms", "default"]
 ---

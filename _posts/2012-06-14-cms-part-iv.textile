@@ -1,7 +1,6 @@
 ---
 layout: post
 title: cms系列四：输赢成败，又争由人算
-permalink: http://railser.cn/blog/cms-part-iv
 post_id: 722
 categories: ["cms", "default"]
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 47个漂亮的ajax+css表单
-permalink: http://railser.cn/blog/47-excellent-ajax-css-forms
 post_id: 375
 categories: ["ajax", "RailsNote"]
 ---

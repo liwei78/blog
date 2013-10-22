@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Method Missing
-permalink: http://railser.cn/blog/method-missing
 post_id: 158
 categories: ["Advanced Rails", "default", "rails", "ruby"]
 ---

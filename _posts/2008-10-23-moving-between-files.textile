@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TextMate中文教程之在选取文件
-permalink: http://railser.cn/blog/moving-between-files
 post_id: 98
 categories: ["default"]
 ---

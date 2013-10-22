@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TextMate的HTML快捷键
-permalink: http://railser.cn/blog/textmate-html
 post_id: 334
 categories: ["TextMate"]
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TextMate中文教程之使用emacs中常用的快捷键
-permalink: http://railser.cn/blog/emacs-key-bindings
 post_id: 238
 categories: ["default", "TextMate"]
 ---

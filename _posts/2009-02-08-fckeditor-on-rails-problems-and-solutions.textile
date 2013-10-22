@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Fckeditor on Rails的问题和临时解决办法
-permalink: http://railser.cn/blog/fckeditor-on-rails-problems-and-solutions
 post_id: 356
 categories: ["fckeditor", "RailsNote"]
 ---

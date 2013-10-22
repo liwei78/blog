@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Flex build4 和Rails资源笔记
-permalink: http://railser.cn/blog/flex-build4-and-rails-note
 post_id: 521
 categories: ["flex", "Flexible Rails"]
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TextMate中文教程之项目的文件夹引用
-permalink: http://railser.cn/blog/textmate-folder-references
 post_id: 143
 categories: ["default", "TextMate"]
 ---

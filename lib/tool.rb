@@ -8,7 +8,7 @@ Dir.glob("#{post_path}/*.textile") do |filename|
   new_file.each 
   File.open(filename, 'w+') do |f|
     new_file.each do |line|
-      f.line = line
+      f.write line
     end
   end
 end

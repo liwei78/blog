@@ -1,7 +1,6 @@
 ---
 layout: post
 title: uc实名认证的修改
-permalink: http://railser.cn/blog/uc-verfy-name-and-usement-in-others
 post_id: 225
 categories: ["comsenz", "default", "modoer", "php", "uc", "uch"]
 ---

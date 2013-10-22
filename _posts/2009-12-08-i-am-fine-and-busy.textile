@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 我们最近的很好，也很忙
-permalink: http://railser.cn/blog/i-am-fine-and-busy
 post_id: 432
 categories: ["others"]
 ---

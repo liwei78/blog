@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 无法安装icu4c的解决办法。
-permalink: http://railser.cn/blog/brew-install-icu4c
 post_id: 753
 categories: ["icu4c", "others"]
 ---

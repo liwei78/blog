@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Rails如何不加载某插件？
-permalink: http://railser.cn/blog/rails-config-plugins-array
 post_id: 459
 categories: ["Advanced Rails"]
 ---

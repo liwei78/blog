@@ -1,7 +1,6 @@
 ---
 layout: post
 title: crontab的写法误解
-permalink: http://railser.cn/blog/crontab
 post_id: 639
 categories: ["crontab", "RailsNote"]
 ---

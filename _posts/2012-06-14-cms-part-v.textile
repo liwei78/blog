@@ -1,7 +1,6 @@
 ---
 layout: post
 title: cms系列五：一饮东坡醒复醉
-permalink: http://railser.cn/blog/cms-part-v
 post_id: 734
 categories: ["cms", "default"]
 ---

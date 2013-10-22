@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 随便写写
-permalink: http://railser.cn/blog/2008-11-30
 post_id: 331
 categories: ["others"]
 ---
